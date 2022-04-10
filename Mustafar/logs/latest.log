@@ -1,156 +1,17 @@
-[12:03:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:03:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:03:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:03:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:03:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:03:53] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:03:54] [Worker-Main-14/INFO]: Loaded 7 recipes
-[12:03:54] [Worker-Main-14/INFO]: Loaded 1141 advancements
-[12:03:57] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[12:03:57] [Server thread/INFO]: Loading properties
-[12:03:57] [Server thread/INFO]: Default game type: CREATIVE
-[12:03:57] [Server thread/INFO]: Generating keypair
-[12:03:57] [Server thread/INFO]: Starting Minecraft server on 192.168.1.27:25565
-[12:03:57] [Server thread/INFO]: Using default channel type
-[12:03:57] [Server thread/INFO]: Preparing level "world"
-[12:03:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:03:59] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[12:03:59] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[12:03:59] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[12:03:59] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:04:00] [Worker-Main-21/INFO]: Preparing spawn area: 0%
-[12:04:00] [Worker-Main-19/INFO]: Preparing spawn area: 0%
-[12:04:01] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[12:04:01] [Worker-Main-15/INFO]: Preparing spawn area: 0%
-[12:04:01] [Worker-Main-17/INFO]: Preparing spawn area: 0%
-[12:04:02] [Worker-Main-15/INFO]: Preparing spawn area: 1%
-[12:04:03] [Worker-Main-18/INFO]: Preparing spawn area: 13%
-[12:04:03] [Worker-Main-22/INFO]: Preparing spawn area: 36%
-[12:04:04] [Worker-Main-18/INFO]: Preparing spawn area: 56%
-[12:04:04] [Worker-Main-14/INFO]: Preparing spawn area: 63%
-[12:04:05] [Worker-Main-21/INFO]: Preparing spawn area: 66%
-[12:04:05] [Worker-Main-21/INFO]: Preparing spawn area: 82%
-[12:04:05] [Worker-Main-12/INFO]: Preparing spawn area: 93%
-[12:04:06] [Server thread/INFO]: Time elapsed: 8586 ms
-[12:04:06] [Server thread/INFO]: Done (8.771s)! For help, type "help"
-[12:04:08] [User Authenticator #1/INFO]: UUID of player Albertito029 is 08bccda3-b02b-476a-a38a-3a56bc91703b
-[12:04:09] [Server thread/INFO]: Albertito029[/192.168.1.27:52403] logged in with entity id 45 at (1069.2338272617576, 118.38450013657015, 159.90438594606988)
-[12:04:09] [Server thread/INFO]: Albertito029 joined the game
-[12:04:37] [User Authenticator #2/INFO]: UUID of player rafefix is 9f87544d-b8ed-4164-9db1-30dd6c0c6a7f
-[12:04:37] [Server thread/INFO]: rafefix[/90.165.75.28:60875] logged in with entity id 138 at (1089.5, 118.0, 70.5)
-[12:04:37] [Server thread/INFO]: rafefix joined the game
-[12:05:29] [Server thread/INFO]: Made Albertito029 a server operator
-[12:05:33] [Server thread/INFO]: Made rafefix a server operator
-[12:05:39] [Server thread/INFO]: [Albertito029: Teleported Albertito029 to rafefix]
-[12:05:39] [Server thread/WARN]: Albertito029 moved too quickly! 29.170720219602572,-6.753756216457845,-107.60936773793449
-[12:05:39] [Server thread/WARN]: Albertito029 moved too quickly! 29.170720219602572,-6.753756216457845,-107.60936773793449
-[12:05:39] [Server thread/WARN]: Albertito029 moved too quickly! 29.170720219602572,-6.753756216457845,-107.60936773793449
-[12:09:52] [Server thread/INFO]: [@: Changed the block at 1073, 109, 225]
-[12:09:52] [Server thread/INFO]: [@: Changed the block at 1100, 120, 181]
-[12:09:52] [Server thread/INFO]: [@: Set spawn point to 1083, 111, 226 [0.0] in minecraft:overworld for Albertito029]
-[12:09:52] [Server thread/INFO]: [@: Applied effect Jump Boost to Albertito029]
-[12:09:52] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: false]
-[12:09:53] [Server thread/INFO]: [@: Set spawn point to 1083, 111, 226 [0.0] in minecraft:overworld for Albertito029]
-[12:09:53] [Server thread/INFO]: [@: Applied effect Jump Boost to Albertito029]
-[12:09:53] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: false]
-[12:14:05] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:14:35] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:14:35] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:15:45] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:15:45] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:04] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:04] [Server thread/INFO]: [@: Set spawn point to 1092, 121, 62 [0.0] in minecraft:overworld for Albertito029]
-[12:16:04] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:38] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:39] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:42] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:42] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:44] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:45] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:46] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:46] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:47] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:48] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:51] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:16:51] [Server thread/INFO]: [@: Set spawn point to 1092, 121, 62 [0.0] in minecraft:overworld for Albertito029]
-[12:16:51] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:17:13] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:17:13] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:18:21] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:18:21] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:20:34] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:20:35] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:24:26] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:24:26] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:24:26] [Server thread/INFO]: [@: Gamerule doMobLoot is now set to: false]
-[12:24:26] [Server thread/INFO]: [@: Gamerule doImmediateRespawn is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Gamerule keepInventory is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Set the world spawn point to 1093, 122, 65 [0.0]]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doMobLoot is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doImmediateRespawn is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doDaylightCycle is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doMobSpawning is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule announceAdvancements is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule keepInventory is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: true]
-[12:24:27] [Server thread/INFO]: [@: Set the world spawn point to 1093, 122, 65 [0.0]]
-[12:24:27] [Server thread/INFO]: [@: Set the time to 18000]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doWeatherCycle is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doDaylightCycle is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doMobSpawning is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Gamerule announceAdvancements is now set to: false]
-[12:24:27] [Server thread/INFO]: [@: Set the time to 18000]
-[12:24:27] [Server thread/INFO]: [@: Gamerule doWeatherCycle is now set to: false]
-[12:24:34] [Server thread/INFO]: Albertito029 fell out of the world
-[12:24:34] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:24:44] [Server thread/INFO]: rafefix lost connection: Disconnected
-[12:24:44] [Server thread/INFO]: rafefix left the game
-[12:25:40] [Server thread/INFO]: Albertito029 fell out of the world
-[12:25:40] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:25:52] [Server thread/INFO]: [Albertito029: Gamerule spawnRadius is now set to: 0]
-[12:25:56] [Server thread/INFO]: Albertito029 fell out of the world
-[12:25:56] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:25:56] [Server thread/WARN]: Albertito029 moved too quickly! 5.5810411898592065,0.5870536243350415,9.703731961801125
-[12:25:59] [Server thread/INFO]: Albertito029 fell out of the world
-[12:25:59] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:26:03] [Server thread/INFO]: [Albertito029: Gamerule spawnRadius is now set to: 1]
-[12:26:05] [Server thread/INFO]: Albertito029 fell out of the world
-[12:26:05] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:26:07] [Server thread/INFO]: Albertito029 fell out of the world
-[12:26:07] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:26:08] [Server thread/INFO]: Albertito029 fell out of the world
-[12:26:08] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:26:09] [Server thread/INFO]: Albertito029 fell out of the world
-[12:26:09] [Server thread/INFO]: [Albertito029: Killed Albertito029]
-[12:26:11] [Server thread/INFO]: [Albertito029: Gamerule spawnRadius is now set to: 0]
-[12:29:23] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:29:23] [Server thread/INFO]: [@: Changed the block at 1103, 114, 72]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doMobLoot is now set to: false]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doImmediateRespawn is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Gamerule keepInventory is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Set the world spawn point to 1093, 123, 65 [0.0]]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doMobLoot is now set to: false]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doImmediateRespawn is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Gamerule keepInventory is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Gamerule fallDamage is now set to: true]
-[12:29:23] [Server thread/INFO]: [@: Set the world spawn point to 1093, 123, 65 [0.0]]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doDaylightCycle is now set to: false]
-[12:29:23] [Server thread/INFO]: [@: Gamerule doMobSpawning is now set to: false]
-[12:29:23] [Server thread/INFO]: [@: Gamerule announceAdvancements is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Set the time to 18000]
-[12:29:24] [Server thread/INFO]: [@: Gamerule doWeatherCycle is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Gamerule spawnRadius is now set to: 0]
-[12:29:24] [Server thread/INFO]: [@: Changed the block at 1094, 122, 67]
-[12:29:24] [Server thread/INFO]: [@: Changed the block at 1093, 122, 67]
-[12:29:24] [Server thread/INFO]: [@: Changed the block at 1094, 123, 67]
-[12:29:24] [Server thread/INFO]: [@: Gamerule doDaylightCycle is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Gamerule doMobSpawning is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Gamerule announceAdvancements is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Changed the block at 1093, 123, 67]
-[12:29:24] [Server thread/INFO]: [@: Set the time to 18000]
-[12:29:24] [Server thread/INFO]: [@: Gamerule doWeatherCycle is now set to: false]
-[12:29:24] [Server thread/INFO]: [@: Gamerule spawnRadius is now set to: 0]
-[12:29:43] [Server thread/INFO]: Albertito029 lost connection: Disconnected
-[12:29:43] [Server thread/INFO]: Albertito029 left the game
+[09:50:16] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:50:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:50:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[09:50:18] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[09:50:19] [Worker-Main-15/INFO]: Loaded 7 recipes
+[09:50:20] [Worker-Main-15/INFO]: Loaded 1141 advancements
+[09:50:22] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[09:50:22] [Server thread/INFO]: Loading properties
+[09:50:22] [Server thread/INFO]: Default game type: ADVENTURE
+[09:50:22] [Server thread/INFO]: Generating keypair
+[09:50:22] [Server thread/INFO]: Starting Minecraft server on 192.168.1.27:25565
+[09:50:22] [Server thread/INFO]: Using default channel type
+[09:50:23] [Server thread/INFO]: Preparing level "world"
+[09:50:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:50:24] [Worker-Main-12/INFO]: Preparing spawn area: 0%
